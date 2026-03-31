@@ -1,0 +1,16 @@
+{
+  "timestamp_utc": "2026-03-31T20:57:45.755849+00:00",
+  "config": {
+    "input_csv": "results/gpt2/raw_head_metrics.csv",
+    "output_dir": "results/gpt2/summaries"
+  },
+  "input_rows": 1200,
+  "summary_metrics": [
+    "mean_forman_curvature",
+    "density",
+    "n_edges",
+    "lcc_size",
+    "row_entropy_mean",
+    "avg_shortest_path_lcc"
+  ]
+}

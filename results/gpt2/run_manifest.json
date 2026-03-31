@@ -1,0 +1,37 @@
+{
+  "timestamp_utc": "2026-03-31T20:47:48.824598+00:00",
+  "config": {
+    "prompt_csv": "prompts/prompt_set_v1.csv",
+    "model_name": "gpt2",
+    "layers": [
+      8,
+      11
+    ],
+    "auto_n_layers": null,
+    "edge_threshold": 0.01,
+    "output_dir": "results/gpt2",
+    "max_prompts": null,
+    "save_head_curves": false,
+    "save_graph_payloads": true,
+    "attn_impl": "eager",
+    "device": "auto",
+    "torch_dtype": "auto",
+    "trust_remote_code": false
+  },
+  "n_prompts": 50,
+  "resolved_layers": [
+    8,
+    11
+  ],
+  "model_metadata": {
+    "model_name_or_path": "gpt2",
+    "model_type": "gpt2",
+    "num_hidden_layers": 12,
+    "num_attention_heads": 12,
+    "hidden_size": 768,
+    "vocab_size": 50257,
+    "device": "cuda",
+    "torch_dtype": "auto",
+    "tokenizer_class": "GPT2Tokenizer"
+  }
+}

@@ -1,0 +1,1201 @@
+prompt_id,prompt_class,prompt_subtype,pair_id,prompt_text,layer,head,payload_path
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,0,results\gpt2\graph_payloads\A01_layer8_head0.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,1,results\gpt2\graph_payloads\A01_layer8_head1.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,2,results\gpt2\graph_payloads\A01_layer8_head2.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,3,results\gpt2\graph_payloads\A01_layer8_head3.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,4,results\gpt2\graph_payloads\A01_layer8_head4.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,5,results\gpt2\graph_payloads\A01_layer8_head5.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,6,results\gpt2\graph_payloads\A01_layer8_head6.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,7,results\gpt2\graph_payloads\A01_layer8_head7.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,8,results\gpt2\graph_payloads\A01_layer8_head8.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,9,results\gpt2\graph_payloads\A01_layer8_head9.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,10,results\gpt2\graph_payloads\A01_layer8_head10.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,8,11,results\gpt2\graph_payloads\A01_layer8_head11.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,0,results\gpt2\graph_payloads\A01_layer11_head0.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,1,results\gpt2\graph_payloads\A01_layer11_head1.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,2,results\gpt2\graph_payloads\A01_layer11_head2.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,3,results\gpt2\graph_payloads\A01_layer11_head3.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,4,results\gpt2\graph_payloads\A01_layer11_head4.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,5,results\gpt2\graph_payloads\A01_layer11_head5.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,6,results\gpt2\graph_payloads\A01_layer11_head6.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,7,results\gpt2\graph_payloads\A01_layer11_head7.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,8,results\gpt2\graph_payloads\A01_layer11_head8.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,9,results\gpt2\graph_payloads\A01_layer11_head9.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,10,results\gpt2\graph_payloads\A01_layer11_head10.json
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,11,11,results\gpt2\graph_payloads\A01_layer11_head11.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,0,results\gpt2\graph_payloads\A02_layer8_head0.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,1,results\gpt2\graph_payloads\A02_layer8_head1.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,2,results\gpt2\graph_payloads\A02_layer8_head2.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,3,results\gpt2\graph_payloads\A02_layer8_head3.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,4,results\gpt2\graph_payloads\A02_layer8_head4.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,5,results\gpt2\graph_payloads\A02_layer8_head5.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,6,results\gpt2\graph_payloads\A02_layer8_head6.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,7,results\gpt2\graph_payloads\A02_layer8_head7.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,8,results\gpt2\graph_payloads\A02_layer8_head8.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,9,results\gpt2\graph_payloads\A02_layer8_head9.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,10,results\gpt2\graph_payloads\A02_layer8_head10.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,8,11,results\gpt2\graph_payloads\A02_layer8_head11.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,0,results\gpt2\graph_payloads\A02_layer11_head0.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,1,results\gpt2\graph_payloads\A02_layer11_head1.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,2,results\gpt2\graph_payloads\A02_layer11_head2.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,3,results\gpt2\graph_payloads\A02_layer11_head3.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,4,results\gpt2\graph_payloads\A02_layer11_head4.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,5,results\gpt2\graph_payloads\A02_layer11_head5.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,6,results\gpt2\graph_payloads\A02_layer11_head6.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,7,results\gpt2\graph_payloads\A02_layer11_head7.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,8,results\gpt2\graph_payloads\A02_layer11_head8.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,9,results\gpt2\graph_payloads\A02_layer11_head9.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,10,results\gpt2\graph_payloads\A02_layer11_head10.json
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,11,11,results\gpt2\graph_payloads\A02_layer11_head11.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,0,results\gpt2\graph_payloads\A03_layer8_head0.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,1,results\gpt2\graph_payloads\A03_layer8_head1.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,2,results\gpt2\graph_payloads\A03_layer8_head2.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,3,results\gpt2\graph_payloads\A03_layer8_head3.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,4,results\gpt2\graph_payloads\A03_layer8_head4.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,5,results\gpt2\graph_payloads\A03_layer8_head5.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,6,results\gpt2\graph_payloads\A03_layer8_head6.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,7,results\gpt2\graph_payloads\A03_layer8_head7.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,8,results\gpt2\graph_payloads\A03_layer8_head8.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,9,results\gpt2\graph_payloads\A03_layer8_head9.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,10,results\gpt2\graph_payloads\A03_layer8_head10.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,8,11,results\gpt2\graph_payloads\A03_layer8_head11.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,0,results\gpt2\graph_payloads\A03_layer11_head0.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,1,results\gpt2\graph_payloads\A03_layer11_head1.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,2,results\gpt2\graph_payloads\A03_layer11_head2.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,3,results\gpt2\graph_payloads\A03_layer11_head3.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,4,results\gpt2\graph_payloads\A03_layer11_head4.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,5,results\gpt2\graph_payloads\A03_layer11_head5.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,6,results\gpt2\graph_payloads\A03_layer11_head6.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,7,results\gpt2\graph_payloads\A03_layer11_head7.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,8,results\gpt2\graph_payloads\A03_layer11_head8.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,9,results\gpt2\graph_payloads\A03_layer11_head9.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,10,results\gpt2\graph_payloads\A03_layer11_head10.json
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,11,11,results\gpt2\graph_payloads\A03_layer11_head11.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,0,results\gpt2\graph_payloads\A04_layer8_head0.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,1,results\gpt2\graph_payloads\A04_layer8_head1.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,2,results\gpt2\graph_payloads\A04_layer8_head2.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,3,results\gpt2\graph_payloads\A04_layer8_head3.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,4,results\gpt2\graph_payloads\A04_layer8_head4.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,5,results\gpt2\graph_payloads\A04_layer8_head5.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,6,results\gpt2\graph_payloads\A04_layer8_head6.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,7,results\gpt2\graph_payloads\A04_layer8_head7.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,8,results\gpt2\graph_payloads\A04_layer8_head8.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,9,results\gpt2\graph_payloads\A04_layer8_head9.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,10,results\gpt2\graph_payloads\A04_layer8_head10.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,8,11,results\gpt2\graph_payloads\A04_layer8_head11.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,0,results\gpt2\graph_payloads\A04_layer11_head0.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,1,results\gpt2\graph_payloads\A04_layer11_head1.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,2,results\gpt2\graph_payloads\A04_layer11_head2.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,3,results\gpt2\graph_payloads\A04_layer11_head3.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,4,results\gpt2\graph_payloads\A04_layer11_head4.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,5,results\gpt2\graph_payloads\A04_layer11_head5.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,6,results\gpt2\graph_payloads\A04_layer11_head6.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,7,results\gpt2\graph_payloads\A04_layer11_head7.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,8,results\gpt2\graph_payloads\A04_layer11_head8.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,9,results\gpt2\graph_payloads\A04_layer11_head9.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,10,results\gpt2\graph_payloads\A04_layer11_head10.json
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,11,11,results\gpt2\graph_payloads\A04_layer11_head11.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,0,results\gpt2\graph_payloads\A05_layer8_head0.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,1,results\gpt2\graph_payloads\A05_layer8_head1.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,2,results\gpt2\graph_payloads\A05_layer8_head2.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,3,results\gpt2\graph_payloads\A05_layer8_head3.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,4,results\gpt2\graph_payloads\A05_layer8_head4.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,5,results\gpt2\graph_payloads\A05_layer8_head5.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,6,results\gpt2\graph_payloads\A05_layer8_head6.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,7,results\gpt2\graph_payloads\A05_layer8_head7.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,8,results\gpt2\graph_payloads\A05_layer8_head8.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,9,results\gpt2\graph_payloads\A05_layer8_head9.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,10,results\gpt2\graph_payloads\A05_layer8_head10.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,8,11,results\gpt2\graph_payloads\A05_layer8_head11.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,0,results\gpt2\graph_payloads\A05_layer11_head0.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,1,results\gpt2\graph_payloads\A05_layer11_head1.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,2,results\gpt2\graph_payloads\A05_layer11_head2.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,3,results\gpt2\graph_payloads\A05_layer11_head3.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,4,results\gpt2\graph_payloads\A05_layer11_head4.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,5,results\gpt2\graph_payloads\A05_layer11_head5.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,6,results\gpt2\graph_payloads\A05_layer11_head6.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,7,results\gpt2\graph_payloads\A05_layer11_head7.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,8,results\gpt2\graph_payloads\A05_layer11_head8.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,9,results\gpt2\graph_payloads\A05_layer11_head9.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,10,results\gpt2\graph_payloads\A05_layer11_head10.json
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,11,11,results\gpt2\graph_payloads\A05_layer11_head11.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,0,results\gpt2\graph_payloads\A06_layer8_head0.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,1,results\gpt2\graph_payloads\A06_layer8_head1.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,2,results\gpt2\graph_payloads\A06_layer8_head2.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,3,results\gpt2\graph_payloads\A06_layer8_head3.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,4,results\gpt2\graph_payloads\A06_layer8_head4.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,5,results\gpt2\graph_payloads\A06_layer8_head5.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,6,results\gpt2\graph_payloads\A06_layer8_head6.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,7,results\gpt2\graph_payloads\A06_layer8_head7.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,8,results\gpt2\graph_payloads\A06_layer8_head8.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,9,results\gpt2\graph_payloads\A06_layer8_head9.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,10,results\gpt2\graph_payloads\A06_layer8_head10.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,8,11,results\gpt2\graph_payloads\A06_layer8_head11.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,0,results\gpt2\graph_payloads\A06_layer11_head0.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,1,results\gpt2\graph_payloads\A06_layer11_head1.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,2,results\gpt2\graph_payloads\A06_layer11_head2.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,3,results\gpt2\graph_payloads\A06_layer11_head3.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,4,results\gpt2\graph_payloads\A06_layer11_head4.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,5,results\gpt2\graph_payloads\A06_layer11_head5.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,6,results\gpt2\graph_payloads\A06_layer11_head6.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,7,results\gpt2\graph_payloads\A06_layer11_head7.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,8,results\gpt2\graph_payloads\A06_layer11_head8.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,9,results\gpt2\graph_payloads\A06_layer11_head9.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,10,results\gpt2\graph_payloads\A06_layer11_head10.json
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,11,11,results\gpt2\graph_payloads\A06_layer11_head11.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,0,results\gpt2\graph_payloads\A07_layer8_head0.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,1,results\gpt2\graph_payloads\A07_layer8_head1.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,2,results\gpt2\graph_payloads\A07_layer8_head2.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,3,results\gpt2\graph_payloads\A07_layer8_head3.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,4,results\gpt2\graph_payloads\A07_layer8_head4.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,5,results\gpt2\graph_payloads\A07_layer8_head5.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,6,results\gpt2\graph_payloads\A07_layer8_head6.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,7,results\gpt2\graph_payloads\A07_layer8_head7.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,8,results\gpt2\graph_payloads\A07_layer8_head8.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,9,results\gpt2\graph_payloads\A07_layer8_head9.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,10,results\gpt2\graph_payloads\A07_layer8_head10.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,8,11,results\gpt2\graph_payloads\A07_layer8_head11.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,0,results\gpt2\graph_payloads\A07_layer11_head0.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,1,results\gpt2\graph_payloads\A07_layer11_head1.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,2,results\gpt2\graph_payloads\A07_layer11_head2.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,3,results\gpt2\graph_payloads\A07_layer11_head3.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,4,results\gpt2\graph_payloads\A07_layer11_head4.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,5,results\gpt2\graph_payloads\A07_layer11_head5.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,6,results\gpt2\graph_payloads\A07_layer11_head6.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,7,results\gpt2\graph_payloads\A07_layer11_head7.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,8,results\gpt2\graph_payloads\A07_layer11_head8.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,9,results\gpt2\graph_payloads\A07_layer11_head9.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,10,results\gpt2\graph_payloads\A07_layer11_head10.json
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,11,11,results\gpt2\graph_payloads\A07_layer11_head11.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,0,results\gpt2\graph_payloads\A08_layer8_head0.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,1,results\gpt2\graph_payloads\A08_layer8_head1.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,2,results\gpt2\graph_payloads\A08_layer8_head2.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,3,results\gpt2\graph_payloads\A08_layer8_head3.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,4,results\gpt2\graph_payloads\A08_layer8_head4.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,5,results\gpt2\graph_payloads\A08_layer8_head5.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,6,results\gpt2\graph_payloads\A08_layer8_head6.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,7,results\gpt2\graph_payloads\A08_layer8_head7.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,8,results\gpt2\graph_payloads\A08_layer8_head8.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,9,results\gpt2\graph_payloads\A08_layer8_head9.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,10,results\gpt2\graph_payloads\A08_layer8_head10.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,8,11,results\gpt2\graph_payloads\A08_layer8_head11.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,0,results\gpt2\graph_payloads\A08_layer11_head0.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,1,results\gpt2\graph_payloads\A08_layer11_head1.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,2,results\gpt2\graph_payloads\A08_layer11_head2.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,3,results\gpt2\graph_payloads\A08_layer11_head3.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,4,results\gpt2\graph_payloads\A08_layer11_head4.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,5,results\gpt2\graph_payloads\A08_layer11_head5.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,6,results\gpt2\graph_payloads\A08_layer11_head6.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,7,results\gpt2\graph_payloads\A08_layer11_head7.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,8,results\gpt2\graph_payloads\A08_layer11_head8.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,9,results\gpt2\graph_payloads\A08_layer11_head9.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,10,results\gpt2\graph_payloads\A08_layer11_head10.json
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,11,11,results\gpt2\graph_payloads\A08_layer11_head11.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,0,results\gpt2\graph_payloads\A09_layer8_head0.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,1,results\gpt2\graph_payloads\A09_layer8_head1.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,2,results\gpt2\graph_payloads\A09_layer8_head2.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,3,results\gpt2\graph_payloads\A09_layer8_head3.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,4,results\gpt2\graph_payloads\A09_layer8_head4.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,5,results\gpt2\graph_payloads\A09_layer8_head5.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,6,results\gpt2\graph_payloads\A09_layer8_head6.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,7,results\gpt2\graph_payloads\A09_layer8_head7.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,8,results\gpt2\graph_payloads\A09_layer8_head8.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,9,results\gpt2\graph_payloads\A09_layer8_head9.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,10,results\gpt2\graph_payloads\A09_layer8_head10.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,8,11,results\gpt2\graph_payloads\A09_layer8_head11.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,0,results\gpt2\graph_payloads\A09_layer11_head0.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,1,results\gpt2\graph_payloads\A09_layer11_head1.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,2,results\gpt2\graph_payloads\A09_layer11_head2.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,3,results\gpt2\graph_payloads\A09_layer11_head3.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,4,results\gpt2\graph_payloads\A09_layer11_head4.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,5,results\gpt2\graph_payloads\A09_layer11_head5.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,6,results\gpt2\graph_payloads\A09_layer11_head6.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,7,results\gpt2\graph_payloads\A09_layer11_head7.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,8,results\gpt2\graph_payloads\A09_layer11_head8.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,9,results\gpt2\graph_payloads\A09_layer11_head9.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,10,results\gpt2\graph_payloads\A09_layer11_head10.json
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,11,11,results\gpt2\graph_payloads\A09_layer11_head11.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,0,results\gpt2\graph_payloads\A10_layer8_head0.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,1,results\gpt2\graph_payloads\A10_layer8_head1.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,2,results\gpt2\graph_payloads\A10_layer8_head2.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,3,results\gpt2\graph_payloads\A10_layer8_head3.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,4,results\gpt2\graph_payloads\A10_layer8_head4.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,5,results\gpt2\graph_payloads\A10_layer8_head5.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,6,results\gpt2\graph_payloads\A10_layer8_head6.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,7,results\gpt2\graph_payloads\A10_layer8_head7.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,8,results\gpt2\graph_payloads\A10_layer8_head8.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,9,results\gpt2\graph_payloads\A10_layer8_head9.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,10,results\gpt2\graph_payloads\A10_layer8_head10.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,8,11,results\gpt2\graph_payloads\A10_layer8_head11.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,0,results\gpt2\graph_payloads\A10_layer11_head0.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,1,results\gpt2\graph_payloads\A10_layer11_head1.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,2,results\gpt2\graph_payloads\A10_layer11_head2.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,3,results\gpt2\graph_payloads\A10_layer11_head3.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,4,results\gpt2\graph_payloads\A10_layer11_head4.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,5,results\gpt2\graph_payloads\A10_layer11_head5.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,6,results\gpt2\graph_payloads\A10_layer11_head6.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,7,results\gpt2\graph_payloads\A10_layer11_head7.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,8,results\gpt2\graph_payloads\A10_layer11_head8.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,9,results\gpt2\graph_payloads\A10_layer11_head9.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,10,results\gpt2\graph_payloads\A10_layer11_head10.json
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,11,11,results\gpt2\graph_payloads\A10_layer11_head11.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,0,results\gpt2\graph_payloads\B01_layer8_head0.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,1,results\gpt2\graph_payloads\B01_layer8_head1.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,2,results\gpt2\graph_payloads\B01_layer8_head2.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,3,results\gpt2\graph_payloads\B01_layer8_head3.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,4,results\gpt2\graph_payloads\B01_layer8_head4.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,5,results\gpt2\graph_payloads\B01_layer8_head5.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,6,results\gpt2\graph_payloads\B01_layer8_head6.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,7,results\gpt2\graph_payloads\B01_layer8_head7.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,8,results\gpt2\graph_payloads\B01_layer8_head8.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,9,results\gpt2\graph_payloads\B01_layer8_head9.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,10,results\gpt2\graph_payloads\B01_layer8_head10.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",8,11,results\gpt2\graph_payloads\B01_layer8_head11.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,0,results\gpt2\graph_payloads\B01_layer11_head0.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,1,results\gpt2\graph_payloads\B01_layer11_head1.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,2,results\gpt2\graph_payloads\B01_layer11_head2.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,3,results\gpt2\graph_payloads\B01_layer11_head3.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,4,results\gpt2\graph_payloads\B01_layer11_head4.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,5,results\gpt2\graph_payloads\B01_layer11_head5.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,6,results\gpt2\graph_payloads\B01_layer11_head6.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,7,results\gpt2\graph_payloads\B01_layer11_head7.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,8,results\gpt2\graph_payloads\B01_layer11_head8.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,9,results\gpt2\graph_payloads\B01_layer11_head9.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,10,results\gpt2\graph_payloads\B01_layer11_head10.json
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",11,11,results\gpt2\graph_payloads\B01_layer11_head11.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,0,results\gpt2\graph_payloads\B02_layer8_head0.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,1,results\gpt2\graph_payloads\B02_layer8_head1.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,2,results\gpt2\graph_payloads\B02_layer8_head2.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,3,results\gpt2\graph_payloads\B02_layer8_head3.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,4,results\gpt2\graph_payloads\B02_layer8_head4.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,5,results\gpt2\graph_payloads\B02_layer8_head5.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,6,results\gpt2\graph_payloads\B02_layer8_head6.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,7,results\gpt2\graph_payloads\B02_layer8_head7.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,8,results\gpt2\graph_payloads\B02_layer8_head8.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,9,results\gpt2\graph_payloads\B02_layer8_head9.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,10,results\gpt2\graph_payloads\B02_layer8_head10.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",8,11,results\gpt2\graph_payloads\B02_layer8_head11.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,0,results\gpt2\graph_payloads\B02_layer11_head0.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,1,results\gpt2\graph_payloads\B02_layer11_head1.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,2,results\gpt2\graph_payloads\B02_layer11_head2.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,3,results\gpt2\graph_payloads\B02_layer11_head3.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,4,results\gpt2\graph_payloads\B02_layer11_head4.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,5,results\gpt2\graph_payloads\B02_layer11_head5.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,6,results\gpt2\graph_payloads\B02_layer11_head6.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,7,results\gpt2\graph_payloads\B02_layer11_head7.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,8,results\gpt2\graph_payloads\B02_layer11_head8.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,9,results\gpt2\graph_payloads\B02_layer11_head9.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,10,results\gpt2\graph_payloads\B02_layer11_head10.json
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",11,11,results\gpt2\graph_payloads\B02_layer11_head11.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,0,results\gpt2\graph_payloads\B03_layer8_head0.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,1,results\gpt2\graph_payloads\B03_layer8_head1.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,2,results\gpt2\graph_payloads\B03_layer8_head2.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,3,results\gpt2\graph_payloads\B03_layer8_head3.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,4,results\gpt2\graph_payloads\B03_layer8_head4.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,5,results\gpt2\graph_payloads\B03_layer8_head5.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,6,results\gpt2\graph_payloads\B03_layer8_head6.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,7,results\gpt2\graph_payloads\B03_layer8_head7.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,8,results\gpt2\graph_payloads\B03_layer8_head8.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,9,results\gpt2\graph_payloads\B03_layer8_head9.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,10,results\gpt2\graph_payloads\B03_layer8_head10.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",8,11,results\gpt2\graph_payloads\B03_layer8_head11.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,0,results\gpt2\graph_payloads\B03_layer11_head0.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,1,results\gpt2\graph_payloads\B03_layer11_head1.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,2,results\gpt2\graph_payloads\B03_layer11_head2.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,3,results\gpt2\graph_payloads\B03_layer11_head3.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,4,results\gpt2\graph_payloads\B03_layer11_head4.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,5,results\gpt2\graph_payloads\B03_layer11_head5.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,6,results\gpt2\graph_payloads\B03_layer11_head6.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,7,results\gpt2\graph_payloads\B03_layer11_head7.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,8,results\gpt2\graph_payloads\B03_layer11_head8.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,9,results\gpt2\graph_payloads\B03_layer11_head9.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,10,results\gpt2\graph_payloads\B03_layer11_head10.json
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",11,11,results\gpt2\graph_payloads\B03_layer11_head11.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,0,results\gpt2\graph_payloads\B04_layer8_head0.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,1,results\gpt2\graph_payloads\B04_layer8_head1.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,2,results\gpt2\graph_payloads\B04_layer8_head2.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,3,results\gpt2\graph_payloads\B04_layer8_head3.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,4,results\gpt2\graph_payloads\B04_layer8_head4.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,5,results\gpt2\graph_payloads\B04_layer8_head5.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,6,results\gpt2\graph_payloads\B04_layer8_head6.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,7,results\gpt2\graph_payloads\B04_layer8_head7.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,8,results\gpt2\graph_payloads\B04_layer8_head8.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,9,results\gpt2\graph_payloads\B04_layer8_head9.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,10,results\gpt2\graph_payloads\B04_layer8_head10.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",8,11,results\gpt2\graph_payloads\B04_layer8_head11.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,0,results\gpt2\graph_payloads\B04_layer11_head0.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,1,results\gpt2\graph_payloads\B04_layer11_head1.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,2,results\gpt2\graph_payloads\B04_layer11_head2.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,3,results\gpt2\graph_payloads\B04_layer11_head3.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,4,results\gpt2\graph_payloads\B04_layer11_head4.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,5,results\gpt2\graph_payloads\B04_layer11_head5.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,6,results\gpt2\graph_payloads\B04_layer11_head6.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,7,results\gpt2\graph_payloads\B04_layer11_head7.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,8,results\gpt2\graph_payloads\B04_layer11_head8.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,9,results\gpt2\graph_payloads\B04_layer11_head9.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,10,results\gpt2\graph_payloads\B04_layer11_head10.json
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",11,11,results\gpt2\graph_payloads\B04_layer11_head11.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,0,results\gpt2\graph_payloads\B05_layer8_head0.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,1,results\gpt2\graph_payloads\B05_layer8_head1.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,2,results\gpt2\graph_payloads\B05_layer8_head2.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,3,results\gpt2\graph_payloads\B05_layer8_head3.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,4,results\gpt2\graph_payloads\B05_layer8_head4.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,5,results\gpt2\graph_payloads\B05_layer8_head5.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,6,results\gpt2\graph_payloads\B05_layer8_head6.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,7,results\gpt2\graph_payloads\B05_layer8_head7.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,8,results\gpt2\graph_payloads\B05_layer8_head8.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,9,results\gpt2\graph_payloads\B05_layer8_head9.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,10,results\gpt2\graph_payloads\B05_layer8_head10.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",8,11,results\gpt2\graph_payloads\B05_layer8_head11.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,0,results\gpt2\graph_payloads\B05_layer11_head0.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,1,results\gpt2\graph_payloads\B05_layer11_head1.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,2,results\gpt2\graph_payloads\B05_layer11_head2.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,3,results\gpt2\graph_payloads\B05_layer11_head3.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,4,results\gpt2\graph_payloads\B05_layer11_head4.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,5,results\gpt2\graph_payloads\B05_layer11_head5.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,6,results\gpt2\graph_payloads\B05_layer11_head6.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,7,results\gpt2\graph_payloads\B05_layer11_head7.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,8,results\gpt2\graph_payloads\B05_layer11_head8.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,9,results\gpt2\graph_payloads\B05_layer11_head9.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,10,results\gpt2\graph_payloads\B05_layer11_head10.json
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",11,11,results\gpt2\graph_payloads\B05_layer11_head11.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,0,results\gpt2\graph_payloads\B06_layer8_head0.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,1,results\gpt2\graph_payloads\B06_layer8_head1.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,2,results\gpt2\graph_payloads\B06_layer8_head2.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,3,results\gpt2\graph_payloads\B06_layer8_head3.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,4,results\gpt2\graph_payloads\B06_layer8_head4.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,5,results\gpt2\graph_payloads\B06_layer8_head5.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,6,results\gpt2\graph_payloads\B06_layer8_head6.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,7,results\gpt2\graph_payloads\B06_layer8_head7.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,8,results\gpt2\graph_payloads\B06_layer8_head8.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,9,results\gpt2\graph_payloads\B06_layer8_head9.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,10,results\gpt2\graph_payloads\B06_layer8_head10.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",8,11,results\gpt2\graph_payloads\B06_layer8_head11.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,0,results\gpt2\graph_payloads\B06_layer11_head0.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,1,results\gpt2\graph_payloads\B06_layer11_head1.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,2,results\gpt2\graph_payloads\B06_layer11_head2.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,3,results\gpt2\graph_payloads\B06_layer11_head3.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,4,results\gpt2\graph_payloads\B06_layer11_head4.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,5,results\gpt2\graph_payloads\B06_layer11_head5.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,6,results\gpt2\graph_payloads\B06_layer11_head6.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,7,results\gpt2\graph_payloads\B06_layer11_head7.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,8,results\gpt2\graph_payloads\B06_layer11_head8.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,9,results\gpt2\graph_payloads\B06_layer11_head9.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,10,results\gpt2\graph_payloads\B06_layer11_head10.json
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",11,11,results\gpt2\graph_payloads\B06_layer11_head11.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,0,results\gpt2\graph_payloads\B07_layer8_head0.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,1,results\gpt2\graph_payloads\B07_layer8_head1.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,2,results\gpt2\graph_payloads\B07_layer8_head2.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,3,results\gpt2\graph_payloads\B07_layer8_head3.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,4,results\gpt2\graph_payloads\B07_layer8_head4.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,5,results\gpt2\graph_payloads\B07_layer8_head5.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,6,results\gpt2\graph_payloads\B07_layer8_head6.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,7,results\gpt2\graph_payloads\B07_layer8_head7.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,8,results\gpt2\graph_payloads\B07_layer8_head8.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,9,results\gpt2\graph_payloads\B07_layer8_head9.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,10,results\gpt2\graph_payloads\B07_layer8_head10.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",8,11,results\gpt2\graph_payloads\B07_layer8_head11.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,0,results\gpt2\graph_payloads\B07_layer11_head0.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,1,results\gpt2\graph_payloads\B07_layer11_head1.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,2,results\gpt2\graph_payloads\B07_layer11_head2.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,3,results\gpt2\graph_payloads\B07_layer11_head3.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,4,results\gpt2\graph_payloads\B07_layer11_head4.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,5,results\gpt2\graph_payloads\B07_layer11_head5.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,6,results\gpt2\graph_payloads\B07_layer11_head6.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,7,results\gpt2\graph_payloads\B07_layer11_head7.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,8,results\gpt2\graph_payloads\B07_layer11_head8.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,9,results\gpt2\graph_payloads\B07_layer11_head9.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,10,results\gpt2\graph_payloads\B07_layer11_head10.json
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",11,11,results\gpt2\graph_payloads\B07_layer11_head11.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,0,results\gpt2\graph_payloads\B08_layer8_head0.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,1,results\gpt2\graph_payloads\B08_layer8_head1.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,2,results\gpt2\graph_payloads\B08_layer8_head2.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,3,results\gpt2\graph_payloads\B08_layer8_head3.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,4,results\gpt2\graph_payloads\B08_layer8_head4.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,5,results\gpt2\graph_payloads\B08_layer8_head5.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,6,results\gpt2\graph_payloads\B08_layer8_head6.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,7,results\gpt2\graph_payloads\B08_layer8_head7.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,8,results\gpt2\graph_payloads\B08_layer8_head8.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,9,results\gpt2\graph_payloads\B08_layer8_head9.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,10,results\gpt2\graph_payloads\B08_layer8_head10.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",8,11,results\gpt2\graph_payloads\B08_layer8_head11.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,0,results\gpt2\graph_payloads\B08_layer11_head0.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,1,results\gpt2\graph_payloads\B08_layer11_head1.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,2,results\gpt2\graph_payloads\B08_layer11_head2.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,3,results\gpt2\graph_payloads\B08_layer11_head3.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,4,results\gpt2\graph_payloads\B08_layer11_head4.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,5,results\gpt2\graph_payloads\B08_layer11_head5.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,6,results\gpt2\graph_payloads\B08_layer11_head6.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,7,results\gpt2\graph_payloads\B08_layer11_head7.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,8,results\gpt2\graph_payloads\B08_layer11_head8.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,9,results\gpt2\graph_payloads\B08_layer11_head9.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,10,results\gpt2\graph_payloads\B08_layer11_head10.json
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",11,11,results\gpt2\graph_payloads\B08_layer11_head11.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,0,results\gpt2\graph_payloads\B09_layer8_head0.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,1,results\gpt2\graph_payloads\B09_layer8_head1.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,2,results\gpt2\graph_payloads\B09_layer8_head2.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,3,results\gpt2\graph_payloads\B09_layer8_head3.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,4,results\gpt2\graph_payloads\B09_layer8_head4.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,5,results\gpt2\graph_payloads\B09_layer8_head5.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,6,results\gpt2\graph_payloads\B09_layer8_head6.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,7,results\gpt2\graph_payloads\B09_layer8_head7.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,8,results\gpt2\graph_payloads\B09_layer8_head8.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,9,results\gpt2\graph_payloads\B09_layer8_head9.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,10,results\gpt2\graph_payloads\B09_layer8_head10.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",8,11,results\gpt2\graph_payloads\B09_layer8_head11.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,0,results\gpt2\graph_payloads\B09_layer11_head0.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,1,results\gpt2\graph_payloads\B09_layer11_head1.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,2,results\gpt2\graph_payloads\B09_layer11_head2.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,3,results\gpt2\graph_payloads\B09_layer11_head3.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,4,results\gpt2\graph_payloads\B09_layer11_head4.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,5,results\gpt2\graph_payloads\B09_layer11_head5.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,6,results\gpt2\graph_payloads\B09_layer11_head6.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,7,results\gpt2\graph_payloads\B09_layer11_head7.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,8,results\gpt2\graph_payloads\B09_layer11_head8.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,9,results\gpt2\graph_payloads\B09_layer11_head9.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,10,results\gpt2\graph_payloads\B09_layer11_head10.json
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",11,11,results\gpt2\graph_payloads\B09_layer11_head11.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,0,results\gpt2\graph_payloads\B10_layer8_head0.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,1,results\gpt2\graph_payloads\B10_layer8_head1.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,2,results\gpt2\graph_payloads\B10_layer8_head2.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,3,results\gpt2\graph_payloads\B10_layer8_head3.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,4,results\gpt2\graph_payloads\B10_layer8_head4.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,5,results\gpt2\graph_payloads\B10_layer8_head5.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,6,results\gpt2\graph_payloads\B10_layer8_head6.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,7,results\gpt2\graph_payloads\B10_layer8_head7.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,8,results\gpt2\graph_payloads\B10_layer8_head8.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,9,results\gpt2\graph_payloads\B10_layer8_head9.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,10,results\gpt2\graph_payloads\B10_layer8_head10.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",8,11,results\gpt2\graph_payloads\B10_layer8_head11.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,0,results\gpt2\graph_payloads\B10_layer11_head0.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,1,results\gpt2\graph_payloads\B10_layer11_head1.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,2,results\gpt2\graph_payloads\B10_layer11_head2.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,3,results\gpt2\graph_payloads\B10_layer11_head3.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,4,results\gpt2\graph_payloads\B10_layer11_head4.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,5,results\gpt2\graph_payloads\B10_layer11_head5.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,6,results\gpt2\graph_payloads\B10_layer11_head6.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,7,results\gpt2\graph_payloads\B10_layer11_head7.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,8,results\gpt2\graph_payloads\B10_layer11_head8.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,9,results\gpt2\graph_payloads\B10_layer11_head9.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,10,results\gpt2\graph_payloads\B10_layer11_head10.json
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",11,11,results\gpt2\graph_payloads\B10_layer11_head11.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,0,results\gpt2\graph_payloads\C01_layer8_head0.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,1,results\gpt2\graph_payloads\C01_layer8_head1.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,2,results\gpt2\graph_payloads\C01_layer8_head2.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,3,results\gpt2\graph_payloads\C01_layer8_head3.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,4,results\gpt2\graph_payloads\C01_layer8_head4.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,5,results\gpt2\graph_payloads\C01_layer8_head5.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,6,results\gpt2\graph_payloads\C01_layer8_head6.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,7,results\gpt2\graph_payloads\C01_layer8_head7.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,8,results\gpt2\graph_payloads\C01_layer8_head8.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,9,results\gpt2\graph_payloads\C01_layer8_head9.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,10,results\gpt2\graph_payloads\C01_layer8_head10.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,8,11,results\gpt2\graph_payloads\C01_layer8_head11.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,0,results\gpt2\graph_payloads\C01_layer11_head0.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,1,results\gpt2\graph_payloads\C01_layer11_head1.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,2,results\gpt2\graph_payloads\C01_layer11_head2.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,3,results\gpt2\graph_payloads\C01_layer11_head3.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,4,results\gpt2\graph_payloads\C01_layer11_head4.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,5,results\gpt2\graph_payloads\C01_layer11_head5.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,6,results\gpt2\graph_payloads\C01_layer11_head6.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,7,results\gpt2\graph_payloads\C01_layer11_head7.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,8,results\gpt2\graph_payloads\C01_layer11_head8.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,9,results\gpt2\graph_payloads\C01_layer11_head9.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,10,results\gpt2\graph_payloads\C01_layer11_head10.json
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,11,11,results\gpt2\graph_payloads\C01_layer11_head11.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,0,results\gpt2\graph_payloads\C02_layer8_head0.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,1,results\gpt2\graph_payloads\C02_layer8_head1.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,2,results\gpt2\graph_payloads\C02_layer8_head2.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,3,results\gpt2\graph_payloads\C02_layer8_head3.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,4,results\gpt2\graph_payloads\C02_layer8_head4.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,5,results\gpt2\graph_payloads\C02_layer8_head5.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,6,results\gpt2\graph_payloads\C02_layer8_head6.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,7,results\gpt2\graph_payloads\C02_layer8_head7.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,8,results\gpt2\graph_payloads\C02_layer8_head8.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,9,results\gpt2\graph_payloads\C02_layer8_head9.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,10,results\gpt2\graph_payloads\C02_layer8_head10.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,8,11,results\gpt2\graph_payloads\C02_layer8_head11.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,0,results\gpt2\graph_payloads\C02_layer11_head0.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,1,results\gpt2\graph_payloads\C02_layer11_head1.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,2,results\gpt2\graph_payloads\C02_layer11_head2.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,3,results\gpt2\graph_payloads\C02_layer11_head3.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,4,results\gpt2\graph_payloads\C02_layer11_head4.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,5,results\gpt2\graph_payloads\C02_layer11_head5.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,6,results\gpt2\graph_payloads\C02_layer11_head6.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,7,results\gpt2\graph_payloads\C02_layer11_head7.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,8,results\gpt2\graph_payloads\C02_layer11_head8.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,9,results\gpt2\graph_payloads\C02_layer11_head9.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,10,results\gpt2\graph_payloads\C02_layer11_head10.json
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,11,11,results\gpt2\graph_payloads\C02_layer11_head11.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,0,results\gpt2\graph_payloads\C03_layer8_head0.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,1,results\gpt2\graph_payloads\C03_layer8_head1.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,2,results\gpt2\graph_payloads\C03_layer8_head2.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,3,results\gpt2\graph_payloads\C03_layer8_head3.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,4,results\gpt2\graph_payloads\C03_layer8_head4.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,5,results\gpt2\graph_payloads\C03_layer8_head5.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,6,results\gpt2\graph_payloads\C03_layer8_head6.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,7,results\gpt2\graph_payloads\C03_layer8_head7.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,8,results\gpt2\graph_payloads\C03_layer8_head8.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,9,results\gpt2\graph_payloads\C03_layer8_head9.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,10,results\gpt2\graph_payloads\C03_layer8_head10.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,8,11,results\gpt2\graph_payloads\C03_layer8_head11.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,0,results\gpt2\graph_payloads\C03_layer11_head0.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,1,results\gpt2\graph_payloads\C03_layer11_head1.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,2,results\gpt2\graph_payloads\C03_layer11_head2.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,3,results\gpt2\graph_payloads\C03_layer11_head3.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,4,results\gpt2\graph_payloads\C03_layer11_head4.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,5,results\gpt2\graph_payloads\C03_layer11_head5.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,6,results\gpt2\graph_payloads\C03_layer11_head6.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,7,results\gpt2\graph_payloads\C03_layer11_head7.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,8,results\gpt2\graph_payloads\C03_layer11_head8.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,9,results\gpt2\graph_payloads\C03_layer11_head9.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,10,results\gpt2\graph_payloads\C03_layer11_head10.json
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,11,11,results\gpt2\graph_payloads\C03_layer11_head11.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,0,results\gpt2\graph_payloads\C04_layer8_head0.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,1,results\gpt2\graph_payloads\C04_layer8_head1.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,2,results\gpt2\graph_payloads\C04_layer8_head2.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,3,results\gpt2\graph_payloads\C04_layer8_head3.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,4,results\gpt2\graph_payloads\C04_layer8_head4.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,5,results\gpt2\graph_payloads\C04_layer8_head5.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,6,results\gpt2\graph_payloads\C04_layer8_head6.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,7,results\gpt2\graph_payloads\C04_layer8_head7.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,8,results\gpt2\graph_payloads\C04_layer8_head8.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,9,results\gpt2\graph_payloads\C04_layer8_head9.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,10,results\gpt2\graph_payloads\C04_layer8_head10.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,8,11,results\gpt2\graph_payloads\C04_layer8_head11.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,0,results\gpt2\graph_payloads\C04_layer11_head0.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,1,results\gpt2\graph_payloads\C04_layer11_head1.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,2,results\gpt2\graph_payloads\C04_layer11_head2.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,3,results\gpt2\graph_payloads\C04_layer11_head3.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,4,results\gpt2\graph_payloads\C04_layer11_head4.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,5,results\gpt2\graph_payloads\C04_layer11_head5.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,6,results\gpt2\graph_payloads\C04_layer11_head6.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,7,results\gpt2\graph_payloads\C04_layer11_head7.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,8,results\gpt2\graph_payloads\C04_layer11_head8.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,9,results\gpt2\graph_payloads\C04_layer11_head9.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,10,results\gpt2\graph_payloads\C04_layer11_head10.json
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,11,11,results\gpt2\graph_payloads\C04_layer11_head11.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,0,results\gpt2\graph_payloads\C05_layer8_head0.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,1,results\gpt2\graph_payloads\C05_layer8_head1.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,2,results\gpt2\graph_payloads\C05_layer8_head2.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,3,results\gpt2\graph_payloads\C05_layer8_head3.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,4,results\gpt2\graph_payloads\C05_layer8_head4.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,5,results\gpt2\graph_payloads\C05_layer8_head5.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,6,results\gpt2\graph_payloads\C05_layer8_head6.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,7,results\gpt2\graph_payloads\C05_layer8_head7.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,8,results\gpt2\graph_payloads\C05_layer8_head8.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,9,results\gpt2\graph_payloads\C05_layer8_head9.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,10,results\gpt2\graph_payloads\C05_layer8_head10.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,8,11,results\gpt2\graph_payloads\C05_layer8_head11.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,0,results\gpt2\graph_payloads\C05_layer11_head0.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,1,results\gpt2\graph_payloads\C05_layer11_head1.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,2,results\gpt2\graph_payloads\C05_layer11_head2.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,3,results\gpt2\graph_payloads\C05_layer11_head3.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,4,results\gpt2\graph_payloads\C05_layer11_head4.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,5,results\gpt2\graph_payloads\C05_layer11_head5.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,6,results\gpt2\graph_payloads\C05_layer11_head6.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,7,results\gpt2\graph_payloads\C05_layer11_head7.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,8,results\gpt2\graph_payloads\C05_layer11_head8.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,9,results\gpt2\graph_payloads\C05_layer11_head9.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,10,results\gpt2\graph_payloads\C05_layer11_head10.json
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,11,11,results\gpt2\graph_payloads\C05_layer11_head11.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,0,results\gpt2\graph_payloads\C06_layer8_head0.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,1,results\gpt2\graph_payloads\C06_layer8_head1.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,2,results\gpt2\graph_payloads\C06_layer8_head2.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,3,results\gpt2\graph_payloads\C06_layer8_head3.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,4,results\gpt2\graph_payloads\C06_layer8_head4.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,5,results\gpt2\graph_payloads\C06_layer8_head5.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,6,results\gpt2\graph_payloads\C06_layer8_head6.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,7,results\gpt2\graph_payloads\C06_layer8_head7.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,8,results\gpt2\graph_payloads\C06_layer8_head8.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,9,results\gpt2\graph_payloads\C06_layer8_head9.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,10,results\gpt2\graph_payloads\C06_layer8_head10.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,8,11,results\gpt2\graph_payloads\C06_layer8_head11.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,0,results\gpt2\graph_payloads\C06_layer11_head0.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,1,results\gpt2\graph_payloads\C06_layer11_head1.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,2,results\gpt2\graph_payloads\C06_layer11_head2.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,3,results\gpt2\graph_payloads\C06_layer11_head3.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,4,results\gpt2\graph_payloads\C06_layer11_head4.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,5,results\gpt2\graph_payloads\C06_layer11_head5.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,6,results\gpt2\graph_payloads\C06_layer11_head6.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,7,results\gpt2\graph_payloads\C06_layer11_head7.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,8,results\gpt2\graph_payloads\C06_layer11_head8.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,9,results\gpt2\graph_payloads\C06_layer11_head9.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,10,results\gpt2\graph_payloads\C06_layer11_head10.json
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,11,11,results\gpt2\graph_payloads\C06_layer11_head11.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,0,results\gpt2\graph_payloads\C07_layer8_head0.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,1,results\gpt2\graph_payloads\C07_layer8_head1.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,2,results\gpt2\graph_payloads\C07_layer8_head2.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,3,results\gpt2\graph_payloads\C07_layer8_head3.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,4,results\gpt2\graph_payloads\C07_layer8_head4.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,5,results\gpt2\graph_payloads\C07_layer8_head5.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,6,results\gpt2\graph_payloads\C07_layer8_head6.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,7,results\gpt2\graph_payloads\C07_layer8_head7.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,8,results\gpt2\graph_payloads\C07_layer8_head8.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,9,results\gpt2\graph_payloads\C07_layer8_head9.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,10,results\gpt2\graph_payloads\C07_layer8_head10.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,8,11,results\gpt2\graph_payloads\C07_layer8_head11.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,0,results\gpt2\graph_payloads\C07_layer11_head0.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,1,results\gpt2\graph_payloads\C07_layer11_head1.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,2,results\gpt2\graph_payloads\C07_layer11_head2.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,3,results\gpt2\graph_payloads\C07_layer11_head3.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,4,results\gpt2\graph_payloads\C07_layer11_head4.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,5,results\gpt2\graph_payloads\C07_layer11_head5.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,6,results\gpt2\graph_payloads\C07_layer11_head6.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,7,results\gpt2\graph_payloads\C07_layer11_head7.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,8,results\gpt2\graph_payloads\C07_layer11_head8.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,9,results\gpt2\graph_payloads\C07_layer11_head9.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,10,results\gpt2\graph_payloads\C07_layer11_head10.json
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,11,11,results\gpt2\graph_payloads\C07_layer11_head11.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,0,results\gpt2\graph_payloads\C08_layer8_head0.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,1,results\gpt2\graph_payloads\C08_layer8_head1.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,2,results\gpt2\graph_payloads\C08_layer8_head2.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,3,results\gpt2\graph_payloads\C08_layer8_head3.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,4,results\gpt2\graph_payloads\C08_layer8_head4.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,5,results\gpt2\graph_payloads\C08_layer8_head5.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,6,results\gpt2\graph_payloads\C08_layer8_head6.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,7,results\gpt2\graph_payloads\C08_layer8_head7.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,8,results\gpt2\graph_payloads\C08_layer8_head8.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,9,results\gpt2\graph_payloads\C08_layer8_head9.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,10,results\gpt2\graph_payloads\C08_layer8_head10.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,8,11,results\gpt2\graph_payloads\C08_layer8_head11.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,0,results\gpt2\graph_payloads\C08_layer11_head0.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,1,results\gpt2\graph_payloads\C08_layer11_head1.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,2,results\gpt2\graph_payloads\C08_layer11_head2.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,3,results\gpt2\graph_payloads\C08_layer11_head3.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,4,results\gpt2\graph_payloads\C08_layer11_head4.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,5,results\gpt2\graph_payloads\C08_layer11_head5.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,6,results\gpt2\graph_payloads\C08_layer11_head6.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,7,results\gpt2\graph_payloads\C08_layer11_head7.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,8,results\gpt2\graph_payloads\C08_layer11_head8.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,9,results\gpt2\graph_payloads\C08_layer11_head9.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,10,results\gpt2\graph_payloads\C08_layer11_head10.json
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,11,11,results\gpt2\graph_payloads\C08_layer11_head11.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,0,results\gpt2\graph_payloads\C09_layer8_head0.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,1,results\gpt2\graph_payloads\C09_layer8_head1.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,2,results\gpt2\graph_payloads\C09_layer8_head2.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,3,results\gpt2\graph_payloads\C09_layer8_head3.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,4,results\gpt2\graph_payloads\C09_layer8_head4.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,5,results\gpt2\graph_payloads\C09_layer8_head5.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,6,results\gpt2\graph_payloads\C09_layer8_head6.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,7,results\gpt2\graph_payloads\C09_layer8_head7.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,8,results\gpt2\graph_payloads\C09_layer8_head8.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,9,results\gpt2\graph_payloads\C09_layer8_head9.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,10,results\gpt2\graph_payloads\C09_layer8_head10.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,8,11,results\gpt2\graph_payloads\C09_layer8_head11.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,0,results\gpt2\graph_payloads\C09_layer11_head0.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,1,results\gpt2\graph_payloads\C09_layer11_head1.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,2,results\gpt2\graph_payloads\C09_layer11_head2.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,3,results\gpt2\graph_payloads\C09_layer11_head3.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,4,results\gpt2\graph_payloads\C09_layer11_head4.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,5,results\gpt2\graph_payloads\C09_layer11_head5.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,6,results\gpt2\graph_payloads\C09_layer11_head6.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,7,results\gpt2\graph_payloads\C09_layer11_head7.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,8,results\gpt2\graph_payloads\C09_layer11_head8.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,9,results\gpt2\graph_payloads\C09_layer11_head9.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,10,results\gpt2\graph_payloads\C09_layer11_head10.json
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,11,11,results\gpt2\graph_payloads\C09_layer11_head11.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,0,results\gpt2\graph_payloads\C10_layer8_head0.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,1,results\gpt2\graph_payloads\C10_layer8_head1.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,2,results\gpt2\graph_payloads\C10_layer8_head2.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,3,results\gpt2\graph_payloads\C10_layer8_head3.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,4,results\gpt2\graph_payloads\C10_layer8_head4.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,5,results\gpt2\graph_payloads\C10_layer8_head5.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,6,results\gpt2\graph_payloads\C10_layer8_head6.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,7,results\gpt2\graph_payloads\C10_layer8_head7.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,8,results\gpt2\graph_payloads\C10_layer8_head8.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,9,results\gpt2\graph_payloads\C10_layer8_head9.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,10,results\gpt2\graph_payloads\C10_layer8_head10.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,8,11,results\gpt2\graph_payloads\C10_layer8_head11.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,0,results\gpt2\graph_payloads\C10_layer11_head0.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,1,results\gpt2\graph_payloads\C10_layer11_head1.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,2,results\gpt2\graph_payloads\C10_layer11_head2.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,3,results\gpt2\graph_payloads\C10_layer11_head3.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,4,results\gpt2\graph_payloads\C10_layer11_head4.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,5,results\gpt2\graph_payloads\C10_layer11_head5.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,6,results\gpt2\graph_payloads\C10_layer11_head6.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,7,results\gpt2\graph_payloads\C10_layer11_head7.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,8,results\gpt2\graph_payloads\C10_layer11_head8.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,9,results\gpt2\graph_payloads\C10_layer11_head9.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,10,results\gpt2\graph_payloads\C10_layer11_head10.json
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,11,11,results\gpt2\graph_payloads\C10_layer11_head11.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,0,results\gpt2\graph_payloads\D01_layer8_head0.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,1,results\gpt2\graph_payloads\D01_layer8_head1.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,2,results\gpt2\graph_payloads\D01_layer8_head2.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,3,results\gpt2\graph_payloads\D01_layer8_head3.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,4,results\gpt2\graph_payloads\D01_layer8_head4.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,5,results\gpt2\graph_payloads\D01_layer8_head5.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,6,results\gpt2\graph_payloads\D01_layer8_head6.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,7,results\gpt2\graph_payloads\D01_layer8_head7.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,8,results\gpt2\graph_payloads\D01_layer8_head8.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,9,results\gpt2\graph_payloads\D01_layer8_head9.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,10,results\gpt2\graph_payloads\D01_layer8_head10.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,8,11,results\gpt2\graph_payloads\D01_layer8_head11.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,0,results\gpt2\graph_payloads\D01_layer11_head0.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,1,results\gpt2\graph_payloads\D01_layer11_head1.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,2,results\gpt2\graph_payloads\D01_layer11_head2.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,3,results\gpt2\graph_payloads\D01_layer11_head3.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,4,results\gpt2\graph_payloads\D01_layer11_head4.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,5,results\gpt2\graph_payloads\D01_layer11_head5.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,6,results\gpt2\graph_payloads\D01_layer11_head6.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,7,results\gpt2\graph_payloads\D01_layer11_head7.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,8,results\gpt2\graph_payloads\D01_layer11_head8.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,9,results\gpt2\graph_payloads\D01_layer11_head9.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,10,results\gpt2\graph_payloads\D01_layer11_head10.json
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,11,11,results\gpt2\graph_payloads\D01_layer11_head11.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,0,results\gpt2\graph_payloads\D02_layer8_head0.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,1,results\gpt2\graph_payloads\D02_layer8_head1.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,2,results\gpt2\graph_payloads\D02_layer8_head2.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,3,results\gpt2\graph_payloads\D02_layer8_head3.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,4,results\gpt2\graph_payloads\D02_layer8_head4.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,5,results\gpt2\graph_payloads\D02_layer8_head5.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,6,results\gpt2\graph_payloads\D02_layer8_head6.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,7,results\gpt2\graph_payloads\D02_layer8_head7.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,8,results\gpt2\graph_payloads\D02_layer8_head8.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,9,results\gpt2\graph_payloads\D02_layer8_head9.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,10,results\gpt2\graph_payloads\D02_layer8_head10.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,8,11,results\gpt2\graph_payloads\D02_layer8_head11.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,0,results\gpt2\graph_payloads\D02_layer11_head0.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,1,results\gpt2\graph_payloads\D02_layer11_head1.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,2,results\gpt2\graph_payloads\D02_layer11_head2.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,3,results\gpt2\graph_payloads\D02_layer11_head3.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,4,results\gpt2\graph_payloads\D02_layer11_head4.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,5,results\gpt2\graph_payloads\D02_layer11_head5.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,6,results\gpt2\graph_payloads\D02_layer11_head6.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,7,results\gpt2\graph_payloads\D02_layer11_head7.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,8,results\gpt2\graph_payloads\D02_layer11_head8.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,9,results\gpt2\graph_payloads\D02_layer11_head9.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,10,results\gpt2\graph_payloads\D02_layer11_head10.json
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,11,11,results\gpt2\graph_payloads\D02_layer11_head11.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,0,results\gpt2\graph_payloads\D03_layer8_head0.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,1,results\gpt2\graph_payloads\D03_layer8_head1.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,2,results\gpt2\graph_payloads\D03_layer8_head2.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,3,results\gpt2\graph_payloads\D03_layer8_head3.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,4,results\gpt2\graph_payloads\D03_layer8_head4.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,5,results\gpt2\graph_payloads\D03_layer8_head5.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,6,results\gpt2\graph_payloads\D03_layer8_head6.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,7,results\gpt2\graph_payloads\D03_layer8_head7.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,8,results\gpt2\graph_payloads\D03_layer8_head8.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,9,results\gpt2\graph_payloads\D03_layer8_head9.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,10,results\gpt2\graph_payloads\D03_layer8_head10.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,8,11,results\gpt2\graph_payloads\D03_layer8_head11.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,0,results\gpt2\graph_payloads\D03_layer11_head0.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,1,results\gpt2\graph_payloads\D03_layer11_head1.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,2,results\gpt2\graph_payloads\D03_layer11_head2.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,3,results\gpt2\graph_payloads\D03_layer11_head3.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,4,results\gpt2\graph_payloads\D03_layer11_head4.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,5,results\gpt2\graph_payloads\D03_layer11_head5.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,6,results\gpt2\graph_payloads\D03_layer11_head6.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,7,results\gpt2\graph_payloads\D03_layer11_head7.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,8,results\gpt2\graph_payloads\D03_layer11_head8.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,9,results\gpt2\graph_payloads\D03_layer11_head9.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,10,results\gpt2\graph_payloads\D03_layer11_head10.json
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,11,11,results\gpt2\graph_payloads\D03_layer11_head11.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,0,results\gpt2\graph_payloads\D04_layer8_head0.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,1,results\gpt2\graph_payloads\D04_layer8_head1.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,2,results\gpt2\graph_payloads\D04_layer8_head2.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,3,results\gpt2\graph_payloads\D04_layer8_head3.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,4,results\gpt2\graph_payloads\D04_layer8_head4.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,5,results\gpt2\graph_payloads\D04_layer8_head5.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,6,results\gpt2\graph_payloads\D04_layer8_head6.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,7,results\gpt2\graph_payloads\D04_layer8_head7.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,8,results\gpt2\graph_payloads\D04_layer8_head8.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,9,results\gpt2\graph_payloads\D04_layer8_head9.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,10,results\gpt2\graph_payloads\D04_layer8_head10.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,8,11,results\gpt2\graph_payloads\D04_layer8_head11.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,0,results\gpt2\graph_payloads\D04_layer11_head0.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,1,results\gpt2\graph_payloads\D04_layer11_head1.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,2,results\gpt2\graph_payloads\D04_layer11_head2.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,3,results\gpt2\graph_payloads\D04_layer11_head3.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,4,results\gpt2\graph_payloads\D04_layer11_head4.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,5,results\gpt2\graph_payloads\D04_layer11_head5.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,6,results\gpt2\graph_payloads\D04_layer11_head6.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,7,results\gpt2\graph_payloads\D04_layer11_head7.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,8,results\gpt2\graph_payloads\D04_layer11_head8.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,9,results\gpt2\graph_payloads\D04_layer11_head9.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,10,results\gpt2\graph_payloads\D04_layer11_head10.json
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,11,11,results\gpt2\graph_payloads\D04_layer11_head11.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,0,results\gpt2\graph_payloads\D05_layer8_head0.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,1,results\gpt2\graph_payloads\D05_layer8_head1.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,2,results\gpt2\graph_payloads\D05_layer8_head2.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,3,results\gpt2\graph_payloads\D05_layer8_head3.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,4,results\gpt2\graph_payloads\D05_layer8_head4.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,5,results\gpt2\graph_payloads\D05_layer8_head5.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,6,results\gpt2\graph_payloads\D05_layer8_head6.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,7,results\gpt2\graph_payloads\D05_layer8_head7.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,8,results\gpt2\graph_payloads\D05_layer8_head8.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,9,results\gpt2\graph_payloads\D05_layer8_head9.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,10,results\gpt2\graph_payloads\D05_layer8_head10.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,8,11,results\gpt2\graph_payloads\D05_layer8_head11.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,0,results\gpt2\graph_payloads\D05_layer11_head0.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,1,results\gpt2\graph_payloads\D05_layer11_head1.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,2,results\gpt2\graph_payloads\D05_layer11_head2.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,3,results\gpt2\graph_payloads\D05_layer11_head3.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,4,results\gpt2\graph_payloads\D05_layer11_head4.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,5,results\gpt2\graph_payloads\D05_layer11_head5.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,6,results\gpt2\graph_payloads\D05_layer11_head6.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,7,results\gpt2\graph_payloads\D05_layer11_head7.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,8,results\gpt2\graph_payloads\D05_layer11_head8.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,9,results\gpt2\graph_payloads\D05_layer11_head9.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,10,results\gpt2\graph_payloads\D05_layer11_head10.json
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,11,11,results\gpt2\graph_payloads\D05_layer11_head11.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,0,results\gpt2\graph_payloads\D06_layer8_head0.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,1,results\gpt2\graph_payloads\D06_layer8_head1.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,2,results\gpt2\graph_payloads\D06_layer8_head2.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,3,results\gpt2\graph_payloads\D06_layer8_head3.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,4,results\gpt2\graph_payloads\D06_layer8_head4.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,5,results\gpt2\graph_payloads\D06_layer8_head5.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,6,results\gpt2\graph_payloads\D06_layer8_head6.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,7,results\gpt2\graph_payloads\D06_layer8_head7.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,8,results\gpt2\graph_payloads\D06_layer8_head8.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,9,results\gpt2\graph_payloads\D06_layer8_head9.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,10,results\gpt2\graph_payloads\D06_layer8_head10.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,8,11,results\gpt2\graph_payloads\D06_layer8_head11.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,0,results\gpt2\graph_payloads\D06_layer11_head0.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,1,results\gpt2\graph_payloads\D06_layer11_head1.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,2,results\gpt2\graph_payloads\D06_layer11_head2.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,3,results\gpt2\graph_payloads\D06_layer11_head3.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,4,results\gpt2\graph_payloads\D06_layer11_head4.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,5,results\gpt2\graph_payloads\D06_layer11_head5.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,6,results\gpt2\graph_payloads\D06_layer11_head6.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,7,results\gpt2\graph_payloads\D06_layer11_head7.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,8,results\gpt2\graph_payloads\D06_layer11_head8.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,9,results\gpt2\graph_payloads\D06_layer11_head9.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,10,results\gpt2\graph_payloads\D06_layer11_head10.json
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,11,11,results\gpt2\graph_payloads\D06_layer11_head11.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,0,results\gpt2\graph_payloads\D07_layer8_head0.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,1,results\gpt2\graph_payloads\D07_layer8_head1.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,2,results\gpt2\graph_payloads\D07_layer8_head2.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,3,results\gpt2\graph_payloads\D07_layer8_head3.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,4,results\gpt2\graph_payloads\D07_layer8_head4.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,5,results\gpt2\graph_payloads\D07_layer8_head5.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,6,results\gpt2\graph_payloads\D07_layer8_head6.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,7,results\gpt2\graph_payloads\D07_layer8_head7.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,8,results\gpt2\graph_payloads\D07_layer8_head8.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,9,results\gpt2\graph_payloads\D07_layer8_head9.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,10,results\gpt2\graph_payloads\D07_layer8_head10.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,8,11,results\gpt2\graph_payloads\D07_layer8_head11.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,0,results\gpt2\graph_payloads\D07_layer11_head0.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,1,results\gpt2\graph_payloads\D07_layer11_head1.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,2,results\gpt2\graph_payloads\D07_layer11_head2.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,3,results\gpt2\graph_payloads\D07_layer11_head3.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,4,results\gpt2\graph_payloads\D07_layer11_head4.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,5,results\gpt2\graph_payloads\D07_layer11_head5.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,6,results\gpt2\graph_payloads\D07_layer11_head6.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,7,results\gpt2\graph_payloads\D07_layer11_head7.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,8,results\gpt2\graph_payloads\D07_layer11_head8.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,9,results\gpt2\graph_payloads\D07_layer11_head9.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,10,results\gpt2\graph_payloads\D07_layer11_head10.json
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,11,11,results\gpt2\graph_payloads\D07_layer11_head11.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,0,results\gpt2\graph_payloads\D08_layer8_head0.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,1,results\gpt2\graph_payloads\D08_layer8_head1.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,2,results\gpt2\graph_payloads\D08_layer8_head2.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,3,results\gpt2\graph_payloads\D08_layer8_head3.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,4,results\gpt2\graph_payloads\D08_layer8_head4.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,5,results\gpt2\graph_payloads\D08_layer8_head5.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,6,results\gpt2\graph_payloads\D08_layer8_head6.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,7,results\gpt2\graph_payloads\D08_layer8_head7.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,8,results\gpt2\graph_payloads\D08_layer8_head8.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,9,results\gpt2\graph_payloads\D08_layer8_head9.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,10,results\gpt2\graph_payloads\D08_layer8_head10.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,8,11,results\gpt2\graph_payloads\D08_layer8_head11.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,0,results\gpt2\graph_payloads\D08_layer11_head0.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,1,results\gpt2\graph_payloads\D08_layer11_head1.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,2,results\gpt2\graph_payloads\D08_layer11_head2.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,3,results\gpt2\graph_payloads\D08_layer11_head3.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,4,results\gpt2\graph_payloads\D08_layer11_head4.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,5,results\gpt2\graph_payloads\D08_layer11_head5.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,6,results\gpt2\graph_payloads\D08_layer11_head6.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,7,results\gpt2\graph_payloads\D08_layer11_head7.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,8,results\gpt2\graph_payloads\D08_layer11_head8.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,9,results\gpt2\graph_payloads\D08_layer11_head9.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,10,results\gpt2\graph_payloads\D08_layer11_head10.json
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,11,11,results\gpt2\graph_payloads\D08_layer11_head11.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,0,results\gpt2\graph_payloads\D09_layer8_head0.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,1,results\gpt2\graph_payloads\D09_layer8_head1.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,2,results\gpt2\graph_payloads\D09_layer8_head2.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,3,results\gpt2\graph_payloads\D09_layer8_head3.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,4,results\gpt2\graph_payloads\D09_layer8_head4.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,5,results\gpt2\graph_payloads\D09_layer8_head5.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,6,results\gpt2\graph_payloads\D09_layer8_head6.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,7,results\gpt2\graph_payloads\D09_layer8_head7.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,8,results\gpt2\graph_payloads\D09_layer8_head8.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,9,results\gpt2\graph_payloads\D09_layer8_head9.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,10,results\gpt2\graph_payloads\D09_layer8_head10.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,8,11,results\gpt2\graph_payloads\D09_layer8_head11.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,0,results\gpt2\graph_payloads\D09_layer11_head0.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,1,results\gpt2\graph_payloads\D09_layer11_head1.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,2,results\gpt2\graph_payloads\D09_layer11_head2.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,3,results\gpt2\graph_payloads\D09_layer11_head3.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,4,results\gpt2\graph_payloads\D09_layer11_head4.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,5,results\gpt2\graph_payloads\D09_layer11_head5.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,6,results\gpt2\graph_payloads\D09_layer11_head6.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,7,results\gpt2\graph_payloads\D09_layer11_head7.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,8,results\gpt2\graph_payloads\D09_layer11_head8.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,9,results\gpt2\graph_payloads\D09_layer11_head9.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,10,results\gpt2\graph_payloads\D09_layer11_head10.json
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,11,11,results\gpt2\graph_payloads\D09_layer11_head11.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,0,results\gpt2\graph_payloads\D10_layer8_head0.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,1,results\gpt2\graph_payloads\D10_layer8_head1.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,2,results\gpt2\graph_payloads\D10_layer8_head2.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,3,results\gpt2\graph_payloads\D10_layer8_head3.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,4,results\gpt2\graph_payloads\D10_layer8_head4.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,5,results\gpt2\graph_payloads\D10_layer8_head5.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,6,results\gpt2\graph_payloads\D10_layer8_head6.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,7,results\gpt2\graph_payloads\D10_layer8_head7.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,8,results\gpt2\graph_payloads\D10_layer8_head8.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,9,results\gpt2\graph_payloads\D10_layer8_head9.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,10,results\gpt2\graph_payloads\D10_layer8_head10.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,8,11,results\gpt2\graph_payloads\D10_layer8_head11.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,0,results\gpt2\graph_payloads\D10_layer11_head0.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,1,results\gpt2\graph_payloads\D10_layer11_head1.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,2,results\gpt2\graph_payloads\D10_layer11_head2.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,3,results\gpt2\graph_payloads\D10_layer11_head3.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,4,results\gpt2\graph_payloads\D10_layer11_head4.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,5,results\gpt2\graph_payloads\D10_layer11_head5.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,6,results\gpt2\graph_payloads\D10_layer11_head6.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,7,results\gpt2\graph_payloads\D10_layer11_head7.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,8,results\gpt2\graph_payloads\D10_layer11_head8.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,9,results\gpt2\graph_payloads\D10_layer11_head9.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,10,results\gpt2\graph_payloads\D10_layer11_head10.json
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,11,11,results\gpt2\graph_payloads\D10_layer11_head11.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,0,results\gpt2\graph_payloads\E01_layer8_head0.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,1,results\gpt2\graph_payloads\E01_layer8_head1.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,2,results\gpt2\graph_payloads\E01_layer8_head2.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,3,results\gpt2\graph_payloads\E01_layer8_head3.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,4,results\gpt2\graph_payloads\E01_layer8_head4.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,5,results\gpt2\graph_payloads\E01_layer8_head5.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,6,results\gpt2\graph_payloads\E01_layer8_head6.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,7,results\gpt2\graph_payloads\E01_layer8_head7.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,8,results\gpt2\graph_payloads\E01_layer8_head8.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,9,results\gpt2\graph_payloads\E01_layer8_head9.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,10,results\gpt2\graph_payloads\E01_layer8_head10.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,8,11,results\gpt2\graph_payloads\E01_layer8_head11.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,0,results\gpt2\graph_payloads\E01_layer11_head0.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,1,results\gpt2\graph_payloads\E01_layer11_head1.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,2,results\gpt2\graph_payloads\E01_layer11_head2.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,3,results\gpt2\graph_payloads\E01_layer11_head3.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,4,results\gpt2\graph_payloads\E01_layer11_head4.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,5,results\gpt2\graph_payloads\E01_layer11_head5.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,6,results\gpt2\graph_payloads\E01_layer11_head6.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,7,results\gpt2\graph_payloads\E01_layer11_head7.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,8,results\gpt2\graph_payloads\E01_layer11_head8.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,9,results\gpt2\graph_payloads\E01_layer11_head9.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,10,results\gpt2\graph_payloads\E01_layer11_head10.json
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,11,11,results\gpt2\graph_payloads\E01_layer11_head11.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,0,results\gpt2\graph_payloads\E02_layer8_head0.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,1,results\gpt2\graph_payloads\E02_layer8_head1.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,2,results\gpt2\graph_payloads\E02_layer8_head2.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,3,results\gpt2\graph_payloads\E02_layer8_head3.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,4,results\gpt2\graph_payloads\E02_layer8_head4.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,5,results\gpt2\graph_payloads\E02_layer8_head5.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,6,results\gpt2\graph_payloads\E02_layer8_head6.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,7,results\gpt2\graph_payloads\E02_layer8_head7.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,8,results\gpt2\graph_payloads\E02_layer8_head8.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,9,results\gpt2\graph_payloads\E02_layer8_head9.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,10,results\gpt2\graph_payloads\E02_layer8_head10.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",8,11,results\gpt2\graph_payloads\E02_layer8_head11.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,0,results\gpt2\graph_payloads\E02_layer11_head0.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,1,results\gpt2\graph_payloads\E02_layer11_head1.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,2,results\gpt2\graph_payloads\E02_layer11_head2.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,3,results\gpt2\graph_payloads\E02_layer11_head3.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,4,results\gpt2\graph_payloads\E02_layer11_head4.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,5,results\gpt2\graph_payloads\E02_layer11_head5.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,6,results\gpt2\graph_payloads\E02_layer11_head6.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,7,results\gpt2\graph_payloads\E02_layer11_head7.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,8,results\gpt2\graph_payloads\E02_layer11_head8.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,9,results\gpt2\graph_payloads\E02_layer11_head9.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,10,results\gpt2\graph_payloads\E02_layer11_head10.json
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",11,11,results\gpt2\graph_payloads\E02_layer11_head11.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,0,results\gpt2\graph_payloads\E03_layer8_head0.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,1,results\gpt2\graph_payloads\E03_layer8_head1.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,2,results\gpt2\graph_payloads\E03_layer8_head2.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,3,results\gpt2\graph_payloads\E03_layer8_head3.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,4,results\gpt2\graph_payloads\E03_layer8_head4.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,5,results\gpt2\graph_payloads\E03_layer8_head5.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,6,results\gpt2\graph_payloads\E03_layer8_head6.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,7,results\gpt2\graph_payloads\E03_layer8_head7.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,8,results\gpt2\graph_payloads\E03_layer8_head8.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,9,results\gpt2\graph_payloads\E03_layer8_head9.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,10,results\gpt2\graph_payloads\E03_layer8_head10.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,8,11,results\gpt2\graph_payloads\E03_layer8_head11.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,0,results\gpt2\graph_payloads\E03_layer11_head0.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,1,results\gpt2\graph_payloads\E03_layer11_head1.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,2,results\gpt2\graph_payloads\E03_layer11_head2.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,3,results\gpt2\graph_payloads\E03_layer11_head3.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,4,results\gpt2\graph_payloads\E03_layer11_head4.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,5,results\gpt2\graph_payloads\E03_layer11_head5.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,6,results\gpt2\graph_payloads\E03_layer11_head6.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,7,results\gpt2\graph_payloads\E03_layer11_head7.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,8,results\gpt2\graph_payloads\E03_layer11_head8.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,9,results\gpt2\graph_payloads\E03_layer11_head9.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,10,results\gpt2\graph_payloads\E03_layer11_head10.json
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,11,11,results\gpt2\graph_payloads\E03_layer11_head11.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,0,results\gpt2\graph_payloads\E04_layer8_head0.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,1,results\gpt2\graph_payloads\E04_layer8_head1.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,2,results\gpt2\graph_payloads\E04_layer8_head2.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,3,results\gpt2\graph_payloads\E04_layer8_head3.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,4,results\gpt2\graph_payloads\E04_layer8_head4.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,5,results\gpt2\graph_payloads\E04_layer8_head5.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,6,results\gpt2\graph_payloads\E04_layer8_head6.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,7,results\gpt2\graph_payloads\E04_layer8_head7.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,8,results\gpt2\graph_payloads\E04_layer8_head8.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,9,results\gpt2\graph_payloads\E04_layer8_head9.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,10,results\gpt2\graph_payloads\E04_layer8_head10.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",8,11,results\gpt2\graph_payloads\E04_layer8_head11.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,0,results\gpt2\graph_payloads\E04_layer11_head0.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,1,results\gpt2\graph_payloads\E04_layer11_head1.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,2,results\gpt2\graph_payloads\E04_layer11_head2.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,3,results\gpt2\graph_payloads\E04_layer11_head3.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,4,results\gpt2\graph_payloads\E04_layer11_head4.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,5,results\gpt2\graph_payloads\E04_layer11_head5.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,6,results\gpt2\graph_payloads\E04_layer11_head6.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,7,results\gpt2\graph_payloads\E04_layer11_head7.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,8,results\gpt2\graph_payloads\E04_layer11_head8.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,9,results\gpt2\graph_payloads\E04_layer11_head9.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,10,results\gpt2\graph_payloads\E04_layer11_head10.json
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",11,11,results\gpt2\graph_payloads\E04_layer11_head11.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,0,results\gpt2\graph_payloads\E05_layer8_head0.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,1,results\gpt2\graph_payloads\E05_layer8_head1.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,2,results\gpt2\graph_payloads\E05_layer8_head2.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,3,results\gpt2\graph_payloads\E05_layer8_head3.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,4,results\gpt2\graph_payloads\E05_layer8_head4.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,5,results\gpt2\graph_payloads\E05_layer8_head5.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,6,results\gpt2\graph_payloads\E05_layer8_head6.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,7,results\gpt2\graph_payloads\E05_layer8_head7.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,8,results\gpt2\graph_payloads\E05_layer8_head8.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,9,results\gpt2\graph_payloads\E05_layer8_head9.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,10,results\gpt2\graph_payloads\E05_layer8_head10.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,8,11,results\gpt2\graph_payloads\E05_layer8_head11.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,0,results\gpt2\graph_payloads\E05_layer11_head0.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,1,results\gpt2\graph_payloads\E05_layer11_head1.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,2,results\gpt2\graph_payloads\E05_layer11_head2.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,3,results\gpt2\graph_payloads\E05_layer11_head3.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,4,results\gpt2\graph_payloads\E05_layer11_head4.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,5,results\gpt2\graph_payloads\E05_layer11_head5.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,6,results\gpt2\graph_payloads\E05_layer11_head6.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,7,results\gpt2\graph_payloads\E05_layer11_head7.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,8,results\gpt2\graph_payloads\E05_layer11_head8.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,9,results\gpt2\graph_payloads\E05_layer11_head9.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,10,results\gpt2\graph_payloads\E05_layer11_head10.json
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,11,11,results\gpt2\graph_payloads\E05_layer11_head11.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,0,results\gpt2\graph_payloads\E06_layer8_head0.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,1,results\gpt2\graph_payloads\E06_layer8_head1.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,2,results\gpt2\graph_payloads\E06_layer8_head2.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,3,results\gpt2\graph_payloads\E06_layer8_head3.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,4,results\gpt2\graph_payloads\E06_layer8_head4.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,5,results\gpt2\graph_payloads\E06_layer8_head5.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,6,results\gpt2\graph_payloads\E06_layer8_head6.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,7,results\gpt2\graph_payloads\E06_layer8_head7.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,8,results\gpt2\graph_payloads\E06_layer8_head8.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,9,results\gpt2\graph_payloads\E06_layer8_head9.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,10,results\gpt2\graph_payloads\E06_layer8_head10.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",8,11,results\gpt2\graph_payloads\E06_layer8_head11.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,0,results\gpt2\graph_payloads\E06_layer11_head0.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,1,results\gpt2\graph_payloads\E06_layer11_head1.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,2,results\gpt2\graph_payloads\E06_layer11_head2.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,3,results\gpt2\graph_payloads\E06_layer11_head3.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,4,results\gpt2\graph_payloads\E06_layer11_head4.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,5,results\gpt2\graph_payloads\E06_layer11_head5.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,6,results\gpt2\graph_payloads\E06_layer11_head6.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,7,results\gpt2\graph_payloads\E06_layer11_head7.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,8,results\gpt2\graph_payloads\E06_layer11_head8.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,9,results\gpt2\graph_payloads\E06_layer11_head9.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,10,results\gpt2\graph_payloads\E06_layer11_head10.json
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",11,11,results\gpt2\graph_payloads\E06_layer11_head11.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,0,results\gpt2\graph_payloads\E07_layer8_head0.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,1,results\gpt2\graph_payloads\E07_layer8_head1.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,2,results\gpt2\graph_payloads\E07_layer8_head2.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,3,results\gpt2\graph_payloads\E07_layer8_head3.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,4,results\gpt2\graph_payloads\E07_layer8_head4.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,5,results\gpt2\graph_payloads\E07_layer8_head5.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,6,results\gpt2\graph_payloads\E07_layer8_head6.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,7,results\gpt2\graph_payloads\E07_layer8_head7.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,8,results\gpt2\graph_payloads\E07_layer8_head8.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,9,results\gpt2\graph_payloads\E07_layer8_head9.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,10,results\gpt2\graph_payloads\E07_layer8_head10.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,8,11,results\gpt2\graph_payloads\E07_layer8_head11.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,0,results\gpt2\graph_payloads\E07_layer11_head0.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,1,results\gpt2\graph_payloads\E07_layer11_head1.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,2,results\gpt2\graph_payloads\E07_layer11_head2.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,3,results\gpt2\graph_payloads\E07_layer11_head3.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,4,results\gpt2\graph_payloads\E07_layer11_head4.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,5,results\gpt2\graph_payloads\E07_layer11_head5.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,6,results\gpt2\graph_payloads\E07_layer11_head6.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,7,results\gpt2\graph_payloads\E07_layer11_head7.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,8,results\gpt2\graph_payloads\E07_layer11_head8.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,9,results\gpt2\graph_payloads\E07_layer11_head9.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,10,results\gpt2\graph_payloads\E07_layer11_head10.json
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,11,11,results\gpt2\graph_payloads\E07_layer11_head11.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,0,results\gpt2\graph_payloads\E08_layer8_head0.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,1,results\gpt2\graph_payloads\E08_layer8_head1.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,2,results\gpt2\graph_payloads\E08_layer8_head2.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,3,results\gpt2\graph_payloads\E08_layer8_head3.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,4,results\gpt2\graph_payloads\E08_layer8_head4.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,5,results\gpt2\graph_payloads\E08_layer8_head5.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,6,results\gpt2\graph_payloads\E08_layer8_head6.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,7,results\gpt2\graph_payloads\E08_layer8_head7.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,8,results\gpt2\graph_payloads\E08_layer8_head8.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,9,results\gpt2\graph_payloads\E08_layer8_head9.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,10,results\gpt2\graph_payloads\E08_layer8_head10.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",8,11,results\gpt2\graph_payloads\E08_layer8_head11.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,0,results\gpt2\graph_payloads\E08_layer11_head0.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,1,results\gpt2\graph_payloads\E08_layer11_head1.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,2,results\gpt2\graph_payloads\E08_layer11_head2.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,3,results\gpt2\graph_payloads\E08_layer11_head3.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,4,results\gpt2\graph_payloads\E08_layer11_head4.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,5,results\gpt2\graph_payloads\E08_layer11_head5.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,6,results\gpt2\graph_payloads\E08_layer11_head6.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,7,results\gpt2\graph_payloads\E08_layer11_head7.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,8,results\gpt2\graph_payloads\E08_layer11_head8.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,9,results\gpt2\graph_payloads\E08_layer11_head9.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,10,results\gpt2\graph_payloads\E08_layer11_head10.json
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",11,11,results\gpt2\graph_payloads\E08_layer11_head11.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,0,results\gpt2\graph_payloads\E09_layer8_head0.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,1,results\gpt2\graph_payloads\E09_layer8_head1.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,2,results\gpt2\graph_payloads\E09_layer8_head2.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,3,results\gpt2\graph_payloads\E09_layer8_head3.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,4,results\gpt2\graph_payloads\E09_layer8_head4.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,5,results\gpt2\graph_payloads\E09_layer8_head5.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,6,results\gpt2\graph_payloads\E09_layer8_head6.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,7,results\gpt2\graph_payloads\E09_layer8_head7.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,8,results\gpt2\graph_payloads\E09_layer8_head8.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,9,results\gpt2\graph_payloads\E09_layer8_head9.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,10,results\gpt2\graph_payloads\E09_layer8_head10.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,8,11,results\gpt2\graph_payloads\E09_layer8_head11.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,0,results\gpt2\graph_payloads\E09_layer11_head0.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,1,results\gpt2\graph_payloads\E09_layer11_head1.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,2,results\gpt2\graph_payloads\E09_layer11_head2.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,3,results\gpt2\graph_payloads\E09_layer11_head3.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,4,results\gpt2\graph_payloads\E09_layer11_head4.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,5,results\gpt2\graph_payloads\E09_layer11_head5.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,6,results\gpt2\graph_payloads\E09_layer11_head6.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,7,results\gpt2\graph_payloads\E09_layer11_head7.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,8,results\gpt2\graph_payloads\E09_layer11_head8.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,9,results\gpt2\graph_payloads\E09_layer11_head9.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,10,results\gpt2\graph_payloads\E09_layer11_head10.json
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,11,11,results\gpt2\graph_payloads\E09_layer11_head11.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,0,results\gpt2\graph_payloads\E10_layer8_head0.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,1,results\gpt2\graph_payloads\E10_layer8_head1.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,2,results\gpt2\graph_payloads\E10_layer8_head2.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,3,results\gpt2\graph_payloads\E10_layer8_head3.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,4,results\gpt2\graph_payloads\E10_layer8_head4.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,5,results\gpt2\graph_payloads\E10_layer8_head5.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,6,results\gpt2\graph_payloads\E10_layer8_head6.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,7,results\gpt2\graph_payloads\E10_layer8_head7.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,8,results\gpt2\graph_payloads\E10_layer8_head8.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,9,results\gpt2\graph_payloads\E10_layer8_head9.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,10,results\gpt2\graph_payloads\E10_layer8_head10.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",8,11,results\gpt2\graph_payloads\E10_layer8_head11.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,0,results\gpt2\graph_payloads\E10_layer11_head0.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,1,results\gpt2\graph_payloads\E10_layer11_head1.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,2,results\gpt2\graph_payloads\E10_layer11_head2.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,3,results\gpt2\graph_payloads\E10_layer11_head3.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,4,results\gpt2\graph_payloads\E10_layer11_head4.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,5,results\gpt2\graph_payloads\E10_layer11_head5.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,6,results\gpt2\graph_payloads\E10_layer11_head6.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,7,results\gpt2\graph_payloads\E10_layer11_head7.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,8,results\gpt2\graph_payloads\E10_layer11_head8.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,9,results\gpt2\graph_payloads\E10_layer11_head9.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,10,results\gpt2\graph_payloads\E10_layer11_head10.json
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",11,11,results\gpt2\graph_payloads\E10_layer11_head11.json

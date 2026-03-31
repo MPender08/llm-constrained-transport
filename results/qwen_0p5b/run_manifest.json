@@ -1,0 +1,36 @@
+{
+  "timestamp_utc": "2026-03-31T21:10:55.360333+00:00",
+  "config": {
+    "prompt_csv": "prompts/prompt_set_v1.csv",
+    "model_name": "Qwen/Qwen2.5-0.5B",
+    "layers": null,
+    "auto_n_layers": 4,
+    "edge_threshold": 0.01,
+    "output_dir": "results/qwen_0p5b",
+    "max_prompts": null,
+    "save_head_curves": false,
+    "save_graph_payloads": true,
+    "attn_impl": "eager",
+    "device": "cuda",
+    "torch_dtype": "float16",
+    "trust_remote_code": false
+  },
+  "n_prompts": 50,
+  "resolved_layers": [
+    0,
+    8,
+    15,
+    23
+  ],
+  "model_metadata": {
+    "model_name_or_path": "Qwen/Qwen2.5-0.5B",
+    "model_type": "qwen2",
+    "num_hidden_layers": 24,
+    "num_attention_heads": 14,
+    "hidden_size": 896,
+    "vocab_size": 151936,
+    "device": "cuda",
+    "torch_dtype": "float16",
+    "tokenizer_class": "Qwen2Tokenizer"
+  }
+}
