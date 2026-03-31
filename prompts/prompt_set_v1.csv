@@ -1,0 +1,51 @@
+prompt_id,prompt_class,prompt_subtype,pair_id,prompt_text,notes,is_minimal_pair_base,is_minimal_pair_variant
+A01,descriptive_baseline,scene,,The tall man walked his big dog across the green city park.,Simple descriptive baseline,,
+A02,descriptive_baseline,scene,,The bright child carried a red kite across the empty field.,Simple descriptive baseline,,
+A03,descriptive_baseline,scene,,The old woman placed a warm loaf beside the wooden table.,Simple descriptive baseline,,
+A04,descriptive_baseline,scene,,The young artist sketched a blue bird beside the quiet river.,Simple descriptive baseline,,
+A05,descriptive_baseline,scene,,The tired farmer pushed a small cart along the dusty road.,Simple descriptive baseline,,
+A06,descriptive_baseline,scene,,The calm sailor watched the gray waves beyond the narrow dock.,Simple descriptive baseline,,
+A07,descriptive_baseline,scene,,The careful baker stirred the sweet cream inside the copper bowl.,Simple descriptive baseline,,
+A08,descriptive_baseline,scene,,The lonely student opened a worn book beneath the yellow lamp.,Simple descriptive baseline,,
+A09,descriptive_baseline,scene,,The quiet doctor carried a black case through the narrow hall.,Simple descriptive baseline,,
+A10,descriptive_baseline,scene,,The eager runner crossed the long bridge above the shallow creek.,Simple descriptive baseline,,
+B01,logical_relational,conditional_comparison,,"If Alice is older than Bob, then Alice is the oldest.",Classic transitive/comparative logic,,
+B02,logical_relational,conditional_set,,"If every rose is red, then this flower is red.",Universal inclusion,,
+B03,logical_relational,conditional_negation,,"If no bird can swim, then this duck cannot swim.",Negation plus class membership,,
+B04,logical_relational,transitive_comparison,,"If Carl is taller than Dana, and Dana is taller than Eric, then Carl is tallest.",Multi-step relation,,
+B05,logical_relational,conditional_order,,"If the lamp is above the desk, then the desk is below the lamp.",Spatial reversal relation,,
+B06,logical_relational,conditional_identity,,"If the key opens the chest, then the chest opens with the key.",Role reversal / dependency,,
+B07,logical_relational,conditional_membership,,"If every square is blue, then this tile is blue.",Simple inclusion variant,,
+B08,logical_relational,conditional_exclusion,,"If no cat is silent, then this kitten is not silent.",Negated class property,,
+B09,logical_relational,comparative_chain,,"If Mira is faster than Lena, and Lena is faster than Paul, then Mira is fastest.",Comparative chain,,
+B10,logical_relational,conditional_containment,,"If the cup is inside the box, then the box contains the cup.",Containment relation,,
+C01,structured_nonlogical,entity_rich,,Alice and Bob walked through the market beside the old fountain.,"Structured, named entities, non-logical",,
+C02,structured_nonlogical,entity_rich,,Mira and Lena crossed the station near the silver railing.,"Structured, named entities, non-logical",,
+C03,structured_nonlogical,object_relation,,The red box beside the lamp held three letters and a coin.,"Structured object relation, non-deductive",,
+C04,structured_nonlogical,object_relation,,The silver clock above the desk marked the end of morning.,"Structured object relation, non-deductive",,
+C05,structured_nonlogical,entity_rich,,Carl and Dana waited near the garden beside the stone gate.,"Structured, named entities, non-logical",,
+C06,structured_nonlogical,object_relation,,The narrow shelf above the bed supported a lamp and vase.,"Structured object relation, non-deductive",,
+C07,structured_nonlogical,scene,,The blue train beyond the tunnel carried workers and grain.,Structured but non-logical,,
+C08,structured_nonlogical,scene,,The small boat beneath the bridge carried fruit and rope.,Structured but non-logical,,
+C09,structured_nonlogical,entity_rich,,Alice and Eric stood near the window beside the closed curtain.,"Structured, named entities, non-logical",,
+C10,structured_nonlogical,scene,,The black dog beside the porch watched the passing carts.,Structured but non-logical,,
+D01,semantic_abstract,abstract_evocative,,The hidden memory drifted slowly beneath the shape of longing.,Abstract / semantic difficulty,,
+D02,semantic_abstract,abstract_evocative,,The silent future pressed against the fragile edge of hope.,Abstract / semantic difficulty,,
+D03,semantic_abstract,abstract_evocative,,The unknown shadow moved across the border of meaning.,Abstract / semantic difficulty,,
+D04,semantic_abstract,abstract_evocative,,The broken promise lingered within the chamber of regret.,Abstract / semantic difficulty,,
+D05,semantic_abstract,abstract_evocative,,The distant sorrow folded gently into the language of sleep.,Abstract / semantic difficulty,,
+D06,semantic_abstract,abstract_evocative,,The unfinished dream hovered above the threshold of memory.,Abstract / semantic difficulty,,
+D07,semantic_abstract,abstract_evocative,,The quiet absence settled deeply inside the room of thought.,Abstract / semantic difficulty,,
+D08,semantic_abstract,abstract_evocative,,The fading signal trembled along the edge of understanding.,Abstract / semantic difficulty,,
+D09,semantic_abstract,abstract_evocative,,The dark intuition circled beneath the surface of reason.,Abstract / semantic difficulty,,
+D10,semantic_abstract,abstract_evocative,,The fragile meaning dissolved within the pressure of silence.,Abstract / semantic difficulty,,
+E01,minimal_pair,descriptive_pair_base,P01,Alice is older than Bob and Alice is smiling today.,Minimal pair base for E02,1,0
+E02,minimal_pair,logical_pair_variant,P01,"If Alice is older than Bob, then Alice is the oldest.",Minimal pair logic variant,0,1
+E03,minimal_pair,descriptive_pair_base,P02,The bird is above the tree and the sky is bright.,Minimal pair base for E04,1,0
+E04,minimal_pair,logical_pair_variant,P02,"If the bird is above the tree, then the tree is below the bird.",Minimal pair logic variant,0,1
+E05,minimal_pair,descriptive_pair_base,P03,Carl is taller than Dana and Carl is wearing black.,Minimal pair base for E06,1,0
+E06,minimal_pair,logical_pair_variant,P03,"If Carl is taller than Dana, then Dana is shorter than Carl.",Minimal pair logic variant,0,1
+E07,minimal_pair,descriptive_pair_base,P04,The cup is inside the box and the lid is closed.,Minimal pair base for E08,1,0
+E08,minimal_pair,logical_pair_variant,P04,"If the cup is inside the box, then the box contains the cup.",Minimal pair logic variant,0,1
+E09,minimal_pair,descriptive_pair_base,P05,Every rose is red and this flower smells sweet tonight.,Minimal pair base for E10,1,0
+E10,minimal_pair,logical_pair_variant,P05,"If every rose is red, then this flower is red.",Minimal pair logic variant,0,1
