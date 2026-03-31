@@ -6,6 +6,8 @@
 
 **Preprint / Zenodo DOI:** 
 
+![fig1_class_layer_overview](results/qwen_0p5b/figures/fig1_class_layer_overview.png)
+
 ## Overview
 
 ## Dependencies
