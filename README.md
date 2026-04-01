@@ -4,7 +4,7 @@
 
 **Author:** Matthew A. Pender
 
-**Preprint / Zenodo DOI:** 
+**Preprint / Zenodo DOI:** [https://doi.org/10.5281/zenodo.19363505](https://doi.org/10.5281/zenodo.19363505)
 
 The project investigates whether logical and relational prompts induce a distinct internal routing regime in transformer attention, relative to descriptive baseline, structured nonlogical, semantic-abstract, and minimal-pair controls. The current workflow supports cross-model analysis in **GPT-2** and **Qwen 0.5B**, with a shared graph-construction and summary pipeline.
 
